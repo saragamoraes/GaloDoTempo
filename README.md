@@ -26,31 +26,12 @@ Demonstrar, na prática, a integração entre **hardware, sensores, conectividad
 - Protoboard
 - Jumpers
 
-## ⚙️ Como Funciona
-
-O sensor **DHT11** realiza a leitura da temperatura e da umidade do ambiente.
-
-Esses dados são enviados pelo **ESP32**, através de uma conexão Wi-Fi, para a plataforma **ThingSpeak**, onde ficam armazenados na nuvem.
-
-A aplicação web desenvolvida em **PHP** consulta os dados armazenados e utiliza a umidade como parâmetro para definir a representação visual do Galo do Tempo.
-
-Dessa forma, o sistema transforma dados ambientais em uma representação visual simples e intuitiva. 🐓
-
 ## 📸 Prints do Sistema
 
-### 🔵 Ambiente Seco
-Umidade entre 0% e 39%.
-
-### 🟣 Umidade Moderada
-Umidade entre 40% e 69%.
-
-### 🩷 Ambiente Muito Úmido
-Umidade entre 70% e 100%.
-
-
-![Uploading seco.jpeg…]()
-![Uploading moderado.jpeg…]()
-![Uploading umido.jpeg…]()
-
+<div align="center">
+  <img src="seco.jpeg" width="244"/>
+  <img src="moderado.jpeg" width="248"/>
+  <img src="umido.jpeg" width="270"/>
+</div>
 
 

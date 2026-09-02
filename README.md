@@ -1,10 +1,8 @@
 # 🐓 Galo do Tempo Inteligente
 
-O Galo do Tempo Inteligente é uma versão tecnológica do tradicional Galo do Tempo, utilizando conceitos de **Internet das Coisas (IoT)** e **Computação em Nuvem** para monitorar as condições de temperatura e umidade do ambiente.
+O Galo do Tempo Inteligente é uma versão tecnológica do tradicional Galo do Tempo, utilizando conceitos de **Internet das Coisas (IoT)** e **Computação em Nuvem** para monitorar as condições de temperatura e umidade do ambiente
 
-## 🎯 Objetivo
-
-Demonstrar, na prática, a integração entre **hardware, sensores, conectividade, armazenamento em nuvem e desenvolvimento web**, transformando um objeto tradicional em uma solução tecnológica interativa.
+Nosso objetivo é Demonstrar, na prática, a integração entre **hardware, sensores, conectividade, armazenamento em nuvem e desenvolvimento web**, transformando um objeto tradicional em uma solução tecnológica interativa.
 
 ## 🚀 Funcionalidades Implementadas
 

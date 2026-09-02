@@ -47,3 +47,9 @@ Umidade entre 40% e 69%.
 ### 🩷 Ambiente Muito Úmido
 Umidade entre 70% e 100%.
 
+<div align="center">
+  <img src=".jpeg" width="244"/>
+  <img src=".jpeg" width="248"/>
+  <img src=".jpeg" width="270"/>
+</div>
+
